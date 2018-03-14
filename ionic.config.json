@@ -1,0 +1,8 @@
+{
+  "name": "ionicimageviewer",
+  "app_id": "d623d386",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
